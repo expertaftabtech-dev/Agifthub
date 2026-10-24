@@ -1,0 +1,6 @@
+{
+  "name": "Agifthub - Photo Frame Studio & Admin Suite",
+  "description": "Comprehensive photo frame studio e-commerce store with interactive custom frame designer, automated orders, payment tracking, printable cash memo thermal receipts with UPI QR code, and full-featured ECOMMERCEGO-inspired admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
